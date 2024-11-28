@@ -1,6 +1,6 @@
 Подготовка данных. Данные для соревнования можно скачать с официальной ![страницы соревнования](https://www.kaggle.com/c/playground-series-s3e20/data). Либо с использование kaggle-aip:
 ```
-kaggle competitions download -c playground-series-s3e20
+kaggle competitions download -c playground-series-s3e13
 ```
 
 __ATTENTION__: перед использованием kaggle-api, убедитесь, что у вас установлен kaggle-api
